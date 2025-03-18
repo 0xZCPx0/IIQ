@@ -31,7 +31,8 @@ def simulate_progress():
         "正在搜索🔍......",
         "正在索引🔍......"
     ]
-    for message in messages:
+    for _ in range(3):
+        message = random.choice(messages)
         print(message)
         time.sleep(random.uniform(0.2, 0.7))
 
@@ -50,7 +51,7 @@ if __name__ == "__main__":
     file_path = 'identity_info.txt'
     data = read_file(file_path)
     if data:
-        query = input("请提供信息ℹ️ : ")
+        query = input("请提供信息: ")
         simulate_progress()
         if search_info(data, query):
             print("-- 查找完成✅ --")
