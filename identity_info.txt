@@ -14,400 +14,714 @@ BMI: 175, 70
 
 name: 汪采红
 phone: 16609922181
-QQ: 
-WeChat ID: 
+QQ: 3503525138
+WeChat ID: wxid_ab71zakr83gt22
 ID Card: 511402200812290720
-age: 
+age:16
 State: 奎屯市
-Home Add: 新疆奎屯市鹏程园19幢142号
+Home Add: 新疆奎屯市鹏程园 19 幢 142 号
 Gender: 女
 Ethnic Group: 汉族
-Guardian: 杨小英（个体  15026292298）
-          汪建辉（个体  15209928861）
-PPD: 
-BMI: 
+Guardian: 杨小英（个体 15026292298） 汪建辉（个体 15209928861）
+PPD:
+BMI: 158, 65
 
-name: 巴合江·叶尔布力
+name: 巴合江・叶尔布力
 phone: 18709048803
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID: BHJ12345678-
 ID Card: 654025200810201436
-age: 
+age:16
 State: 新源县
-Home Add: 新疆新源县西城印象3号楼1单元602
+Home Add: 新疆新源县西城印象 3 号楼 1 单元 602
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 古丽米拉（医生  14799985503）
-          叶尔布力（司机  15109995098）
-PPD: 
-BMI: 
+Guardian: 古丽米拉（医生 14799985503） 叶尔布力（司机 15109995098）
+PPD:
+BMI: 183, 68
 
 name: 马忠平
 phone: 19199572922
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID: 15292743472
 ID Card: 654025200811252614
-age: 
+age:16
 State: 新源县
-Home Add: 新疆新源县那拉提幼儿园小区三号楼二单元201
+Home Add: 新疆新源县那拉提幼儿园小区三号楼二单元 201
 Gender: 男
 Ethnic Group: 回族
-Guardian: 李晓凤（个体  13279079954）
-          马海兵（个体  15276396545）
-PPD: 
-BMI: 
+Guardian: 李晓凤（个体 13279079954） 马海兵（个体 15276396545）
+PPD:
+BMI: 169, 70
 
 name: 孔艺洁
-phone: 15299019002
-QQ: 
-WeChat ID: 
+phone: 15299019002，17767575689
+QQ: 3276289604
+WeChat ID: Koej0925
 ID Card: 41172920090116696X
-age: 
+age:16
 State: 霍尔果斯市
-Home Add: 霍尔果斯市丁香湾3-1单元201
+Home Add: 霍尔果斯市丁香湾 3-1 单元 201
 Gender: 女
 Ethnic Group: 汉族
-Guardian: 邹清梅（个体  19199573006）
-          李贺平（司机  17690303931）
-PPD: 
-BMI: 
+Guardian: 邹清梅（个体 19199573006） 李贺平（司机 17690303931）
+PPD:
+BMI: 167, 42
 
-name: 麦吾久代·吐尔汗
-phone: 18599670562
-QQ: 
-WeChat ID: 
+name: 麦吾久代・吐尔汗
+phone: 18599670562，13201100483
+QQ:
+WeChat ID: mawjd0910
 ID Card: 654023200809100483
-age: 
+age:16
 State: 霍城县
-Home Add: 兰干乡梁三宫村二组西路南三巷002号
+Home Add: 兰干乡梁三宫村二组西路南三巷 002 号
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 吐尔汗·吐尔逊（个体  19914355235）
-          布买力艳·伊明江（个体  18599670520）
-PPD: 
-BMI: 
+Guardian: 吐尔汗・吐尔逊（个体 19914355235） 布买力艳・伊明江（个体 18599670520）
+PPD:
+BMI: 168, 47
 
-name: 开丽比努尔·努尔买买提
+name: 开丽比努尔・努尔买买提
 phone: 18099126292
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID:
 ID Card: 65400220080609002X
-age: 
+age:16
 State: 伊宁市
-Home Add: 伊宁市西环路一巷127号
+Home Add: 伊宁市西环路一巷 127 号
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 热合曼·艾尔肯（个体  13899732126）
-          努尔买买提·阿不都克力木（个体 13779576390）
-PPD: 
-BMI: 
+Guardian: 热合曼・艾尔肯（个体 13899732126） 努尔买买提・阿不都克力木（个体 13779576390）
+PPD:
+BMI: 158, 46
 
-name: 伊尔吾拉尼·依尔达吾拉提
+name: 伊尔吾拉尼・依尔达吾拉提
 phone: 15999270344
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID: wxid_c7fq1nypc11t22
 ID Card: 654022200802184235
-age: 
+age:17
 State: 察布查尔县
 Home Add: 新疆察布查尔县扎格斯台镇努拉洪布拉克村
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 依尔达吾拉提·居玛和特（努拉洪布拉克村 17309998039）
-          提力加尼·托合塔尔别克（努拉洪布拉克村 17881752488）
-PPD: 
-BMI: 
+Guardian: 依尔达吾拉提・居玛和特（努拉洪布拉克村 17309998039） 提力加尼・托合塔尔别克（努拉洪布拉克村 17881752488）
+PPD:
+BMI: 165, 48
 
-name: 哈迪尔丁·阿不都热衣
+name: 哈迪尔丁・阿不都热衣
 phone: 18449251981
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID: kadi520778
 ID Card: 65400220080603321X
-age: 
+age:16
 State: 伊宁市
-Home Add: 克伯克于孜乡团结路33巷五号
+Home Add: 克伯克于孜乡团结路 33 巷五号
 Gender: 男
 Ethnic Group: 维吾尔族
-Guardian: 索尔艳木·达吾提江（客房服务员 15909999334）
-PPD: 
-BMI: 
+Guardian: 索尔艳木・达吾提江（客房服务员 15909999334）
+PPD:
+BMI: 171, 65
 
-name: 夏热帕提·艾山江
+name: 夏热帕提・艾山江
 phone: 18935772371
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID: xarepat47
 ID Card: 654024200804072520
-age: 
+age:16
 State: 巩留县
-Home Add: 九河源二期八号楼二单元603
+Home Add: 九河源二期八号楼二单元 603
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 自来比·阿布力孜（个体  18935772114）
-PPD: 
-BMI: 
+Guardian: 自来比・阿布力孜（个体 18935772114）
+PPD:
+BMI: 158, 56
 
-name: 布麦尔耶姆·巴拉提江
+name: 布麦尔耶姆・巴拉提江
 phone: 18197920323
-QQ: 
-WeChat ID: 
+QQ:
+WeChat ID:
 ID Card: 654023200809280488
-age: 
+age:16
 State: 霍城县
-Home Add: 霍城县新荣西路北七巷029号
+Home Add: 霍城县新荣西路北七巷 029 号
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 肉孜古丽·库那洪（无  18197920326）
-          巴拉提江（个体  13579716091）
-PPD: 
-BMI: 
+Guardian: 肉孜古丽・库那洪（无 18197920326） 巴拉提江（个体 13579716091）
+PPD: 贫血
+BMI: 160, 50
 
 name: 马正强
 phone: 19190695193
-QQ: 
-WeChat ID: 
+QQ: 3597148686
+WeChat ID: wzid_bl9zy52eiujx22
 ID Card: 654025200903103173
-age: 
+age:16
 State: 新源县
-Home Add: 阿勒玛勒镇铁勒喀拉村团结街900号
+Home Add: 阿勒玛勒镇铁勒喀拉村团结街 900 号
 Gender: 男
 Ethnic Group: 回族
-Guardian: 马成祥（无	18160379694）
-          马存贵（厨师	19995143095）
-PPD: 
-BMI: 
+Guardian: 马成祥（无 18160379694） 马存贵（厨师 19995143095）
+PPD:
+BMI: 172, 55
 
-name: 叶力娜尔·尔斯开力德
+name: 叶力娜尔・尔斯开力德
 phone: 19390254126
-QQ: 
-WeChat ID: 
+QQ: 2107852146
+WeChat ID: ylnr20080126
 ID Card: 654024200801262011
-age: 
+age:17
 State: 巩留县
-Home Add: 巩留县牛场农四队6-9号
+Home Add: 巩留县牛场农四队 6-9 号
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 尔斯开力德·玛拉衣（司机	19390250126）
-          加那古丽·叶来西（无	19390255126）
-PPD: 
-BMI: 
+Guardian: 尔斯开力德・玛拉衣（司机 19390250126） 加那古丽・叶来西（无 19390255126）
+PPD:
+BMI: 167, 50
 
 name: 巴依萨特・唐加拉克
-phone: 17397893431
+phone: 17397893431，19399796520
 QQ:
-WeChat ID:
+WeChat ID: serendipity4242
 ID Card: 65402320090102003X
-age:
+age:16
 State: 霍城县
 Home Add: 霍城县清水河镇双沟一村 020 号
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 唐加拉克・铁了白（个体 17397899242）
-卓拉古力（无 17397899486）
+Guardian: 唐加拉克・铁了白（个体 17397899242） 卓拉古力（无 17397899486）
 PPD:
-BMI:
+BMI: 178, 70
 
 name: 阿依马拉提・吐尔逊艾力
 phone: 18699977486
 QQ:
-WeChat ID:
+WeChat ID: a1a2a3a4a5bcdw
 ID Card: 654027200810180818
-age:
+age:17
 State: 特克斯县
 Home Add: 齐勒乌泽克乡阿克奇农业村 3 巷 51 号
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 吾勒旦（ 15276346508）
-吐尔逊艾力（ 18240914077）
+Guardian: 吾勒旦（ 15276346508） 吐尔逊艾力（ 18240914077）
 PPD:
-BMI:
+BMI: 170, 56
 
 name: 李婷竹
 phone: 18590445258
 QQ:
-WeChat ID:
+WeChat ID: ltz-0419
 ID Card: 654028200904132004
-age:
+age:16
 State: 尼勒克县
 Home Add: 尼勒克县新城雅居 1 号楼一单元 402
 Gender: 女
 Ethnic Group: 回族
-Guardian: 杨进梅（无 13279075912）
-李进祥（无 13095113119）
+Guardian: 杨进梅（无 13279075912） 李进祥（无 13095113119）
 PPD:
-BMI:
+BMI: 165, 52
 
 name: 穆海麦提・伊麻木
 phone: 17691613083
 QQ:
-WeChat ID:
+WeChat ID: wxid_yzhc40qnhff622
 ID Card: 65402320080824117X
-age:
+age:16
 State: 霍城县
 Home Add: 霍城县三宫乡下三宫明善路 012 号
 Gender: 男
 Ethnic Group: 维吾尔族
 Guardian: 阿衣古扎丽・阿不都斯拉木（无 17599696906）
 PPD:
-BMI:
+BMI: 180, 75
 
 name: 亢杰
 phone: 15299287116
 QQ:
-WeChat ID:
+WeChat ID: kj2268525
 ID Card: 654022200812160018
-age:
+age:16
 State: 察布查尔县
 Home Add: 新疆察布查尔锡伯自治县城镇锡御花园三号楼二单元 502 室
 Gender: 男
 Ethnic Group: 汉族
-Guardian: 亢建保（家庭装修 15999280776）
-幸莉（察县公安局巡防大队 15886961596）
+Guardian: 亢建保（家庭装修 15999280776） 幸莉（察县公安局巡防大队 15886961596）
 PPD:
-BMI:
+BMI: 174, 52
 
 name: 叶尔波力・俊马开来德
 phone: 18146491379
 QQ:
-WeChat ID:
+WeChat ID: yrbl2008-
 ID Card: 654027200811282015
-age:
+age:16
 State: 特克斯县
 Home Add: 特克斯县喀浦萨朗牧业村库英格 19 号
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 俊马开来德・孜拉提别克（无 19109991702）
-叶里达那・俊马开来德（无 19109991702）
+Guardian: 俊马开来德・孜拉提别克（无 19109991702） 叶里达那・俊马开来德（无 19109991702）
 PPD:
-BMI:
+BMI: 163, 60
 
 name: 单永杰
-phone: 18040726176
+phone: 18040726176，13364816077
 QQ:
-WeChat ID:
+WeChat ID: syj123409
 ID Card: 654028200809010615
-age:
+age:16
 State: 尼勒克县
 Home Add: 尼勒克库斯仁村红旗东路三巷 97 号
 Gender: 男
 Ethnic Group: 回族
 Guardian: 单志平（无 15981737855）
-PPD:
-BMI:
+PPD: 罗红霉素过敏
+BMI: 177, 71
 
 name: 麦尔则耶・阿不都黑力力
-phone: 13899744953
+phone: 13899744953，19990845401
 QQ:
-WeChat ID:
+WeChat ID: mrzy0728
 ID Card: 654002200807281784
-age:
+age:16
 State: 伊宁市
 Home Add: 伊宁市喀什街七巷 30 号
 Gender: 女
 Ethnic Group: 维吾尔族
 Guardian: 买力干木（无 ）
 PPD:
-BMI:
+BMI: 165, 60
 
 name: 木拉提・木合太尔
 phone: 17691614861
 QQ:
-WeChat ID:
+WeChat ID: Murat-0329
 ID Card: 654002200903293515
-age:
+age:15
 State: 伊宁市
 Home Add: 伊宁市英也尔乡友好路二十二巷 22 号
 Gender: 男
 Ethnic Group: 维吾尔族
-Guardian: 木合太尔・努尔买买提（个体 15599637005）
-麦迪乃姆・伊斯坎代尔（卫生 15569293405）
+Guardian: 木合太尔・努尔买买提（个体 15599637005） 麦迪乃姆・伊斯坎代尔（卫生 15569293405）
 PPD:
-BMI:
+BMI: 175, 52
 
 name: 沙依旦木・吐合提亚尔
 phone: 13779561207
-QQ:
-WeChat ID:
+QQ: 3937354442
+WeChat ID: sayda129
 ID Card: 654022200801291944
-age:
+age:17
 State: 察布查尔县
 Home Add: 坎乡三网联互
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 茹鲜艾依（无 18440193037）
-吐合提亚尔（无 ）
+Guardian: 茹鲜艾依（无 18440193037） 吐合提亚尔（无 ）
 PPD:
-BMI:
+BMI: 170, 52
 
 name: 努尔夏提・也力肯别克
 phone: 18196952921
 QQ:
-WeChat ID:
+WeChat ID: n18196951921
 ID Card: 654027200908023618
-age:
+age:16
 State: 特克斯县
 Home Add: 新疆特克斯县军马场喀拉峻 92-1 号
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 也力肯别克・对山木汉（无 13779176481）
-古孜衣拉・阿不都瓦力（无 18139225493）
+Guardian: 也力肯别克・对山木汉（无 13779176481） 古孜衣拉・阿不都瓦力（无 18139225493）
 PPD:
-BMI:
+BMI: 175, 60
 
 name: 别格阿热斯・库万艾力
 phone: 18899578595
 QQ:
-WeChat ID:
+WeChat ID: BiegeAres
 ID Card: 654025200905041017
-age:
+age:16
 State: 新源县
 Home Add: 新源县瑞景华庭公租房二期三单元 602
 Gender: 男
 Ethnic Group: 哈萨克族
-Guardian: 库万艾力・萨帕尔汗（个体 19990825297）
-奴尔古丽・沙哈提（个体 15894148573）
+Guardian: 库万艾力・萨帕尔汗（个体 19990825297） 奴尔古丽・沙哈提（个体 15894148573）
 PPD:
-BMI:
+BMI: 170, 50
 
 name: 阿迪拉・沙吾江
 phone: 15688381471
 QQ:
-WeChat ID:
+WeChat ID: Adila12119
 ID Card: 654002200812092224
-age:
+age:17
 State: 霍城县
 Home Add: 霍城县惠远镇城东路北五巷 010 号
 Gender: 女
 Ethnic Group: 维吾尔族
-Guardian: 沙吾江・马木提（无 19390933971）
-古丽波斯坦・马木提（无 13519990824）
+Guardian: 沙吾江・马木提（无 19390933971） 古丽波斯坦・马木提（无 13519990824）
 PPD:
-BMI:
+BMI: 162, 46
 
 name: 法依再姆・阿布都艾尼
 phone: 14799925607
-QQ:
-WeChat ID:
+QQ: 3965501609
+WeChat ID: ly559204
 ID Card: 654002200810122004
-age:
+age:16
 State: 伊宁市
 Home Add: 新疆伊宁市伊犁街十九巷 64 号
 Gender: 女
 Ethnic Group: 乌孜别克族
-Guardian: 阿布都艾尼・阿布都海米提（个体 13565230075）
-果海尔・买买提明（个体 13369823412）
+Guardian: 阿布都艾尼・阿布都海米提（个体 13565230075） 果海尔・买买提明（个体 13369823412）
 PPD:
-BMI:
+BMI: 167, 53
 
 name: 娜尔达娜・阿赛提江
 phone: 18890816429
 QQ:
-WeChat ID:
+WeChat ID: na0908027
 ID Card: 654025200908070526
-age:
+age:16
 State: 新源县
 Home Add: 新源县则克台阔克英村向阳路 146 号
 Gender: 女
 Ethnic Group: 哈萨克族
-Guardian: 阿赛提江・努拉合曼（无 15292754240）
-努尔古丽・阿木尔艾力（无 15299263486）
+Guardian: 阿赛提江・努拉合曼（无 15292754240） 努尔古丽・阿木尔艾力（无 15299263486）
+PPD:
+BMI: 165, 50
+
+name: 苏比努尔・阿买尔江
+phone: 19328583786
+QQ:
+WeChat ID: wxid_vcj81ddc96wc22
+ID Card: 654025200901313783
+age:15
+State: 新源县
+Home Add: 新疆新源县塔勒得镇玉什拖别村 18 巷 050 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 阿买尔江・马木提江（15352552423） 阿依奴尔・依米江（15352551423）
+PPD:
+BMI: 160, 50
+
+name: 穆凯代斯・买买提艾力
+phone: 17399499642
+QQ:
+WeChat ID: mukadas081014
+ID Card: 654023200810141485
+age:17
+State: 霍城县
+Home Add: 新疆霍城县惠远镇老城北路 004 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 买买提艾力・艾尔肯（个体 18709005883） 吐尔逊娜依・艾买提（无 17399499641）
+PPD:
+BMI: 160, 50
+
+name: 娜迪娅・阿布巴克热
+phone: 15292789121
+QQ:
+WeChat ID: nigara0888
+ID Card: 654002200905012625
+age:16
+State: 伊宁市
+Home Add: 新疆伊宁市边境经济合作区新华西路 225 号木材厂家属院平房 1 - 1 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 阿布巴克热・赛买提（开挖掘机 19190690223） 热依哈古丽・克力木江（保洁 17690205556）
+PPD:
+BMI: 158, 46
+
+name: 乃菲沙木・玛合木提江
+phone: 19317973735
+QQ: 1292309327
+WeChat ID: Noes-0201
+ID Card: 654022200802014623
+age:17
+State: 伊宁市
+Home Add: 新疆伊宁市达达木图镇下苏拉宫村 68 巷 13 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 玛合木提江・莫合达尔（无 19317973736） 托合提古丽・库尔宛江（保洁 18449781636）
+PPD:
+BMI: 156, 62
+
+name: 闹达・新其米格
+phone: 13319721271
+QQ: 2061421798
+WeChat ID: Ba4_Xbabe16
+ID Card: 654028200901101122
+age:16
+State: 尼勒克县
+Home Add: 新疆尼勒克县书香名门 8 - 8 - 602
+Gender: 女
+Ethnic Group: 蒙古族
+Guardian: 巴特尔・格日丽玛（个体 19351128879） 巴特尔・德尔佳（卫生局 18299255521）
+PPD:
+BMI: 164, 50
+
+name: 叶尔勒克・别尔得别克
+phone: 18699396915
+QQ:
+WeChat ID: Chatw10
+ID Card: 654025200903042630
+age:16
+State: 新源县
+Home Add: 新疆伊犁新源县那拉提镇塔依阿苏村塔依阿苏街 14 巷 023 号
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 阿德甫汗・木克尼（个体 15276492432） 萨比古丽・别尔得别克（人民医院 14799967068）
+PPD:
+BMI: 178, 60
+
+name: 吾克来・巴合特别克
+phone: 13094069822
+QQ: 38833959721
+WeChat ID: W03040816
+ID Card: 654028200804250927
+age:16
+State: 尼勒克县
+Home Add: 新疆尼勒克县克令乡萨尔阿尕什村向阳路三十五巷 12 号
+Gender: 女
+Ethnic Group: 哈萨克族
+Guardian: 乌力甫・木汗（无 13109074202）
+PPD: 先天性心脏病
+BMI: 168, 58
+
+name: 吾拉哈提・买尔丹
+phone: 15199966826
+QQ: 15199966826
+WeChat ID: 15199966826
+ID Card: 654202200906205833
+age:15
+State: 乌苏市
+Home Add: 新疆乌苏市塔里木河西路 005 号农行家属院二号楼二单元 101 室
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 买尔丹（乌苏市政府 13519958791） 吾拉丽（个体 13519954073）
+PPD:
+BMI: 178, 63
+
+name: 叶得力・阿合买提江
+phone: 19190674263
+QQ: 3508045338
+WeChat ID: yedelii0214
+ID Card: 654025200908192312
+age:15
+State: 新源县
+Home Add: 新疆新源县坎苏镇阔克托别村阔克托别街三巷 011 号
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 阿合买提江（个体 18099804015） 阿迪拉（学生 18997844058）
+PPD:
+BMI: 170, 55
+
+name: 叶地力・卡利别克
+phone: 15729900772，18299959028
+QQ: 2155232242
+WeChat ID: _2001923YDL_
+ID Card: 654024200809232036
+age:16
+State: 巩留县
+Home Add: 巩留县牛场农二队附 6 - 7 号
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 阿勒听古丽・斯拉木（个体 15276330575）
+PPD:
+BMI: 173, 62
+
+name: 叶拉热斯・比依玻勒得
+phone: 19990879035
+QQ:
+WeChat ID: ty20090205y
+ID Card: 654025200902054875
+age:16
+State: 新源县
+Home Add: 新疆伊犁新源县巩乃斯种羊场和平路 12 巷
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 比依玻勒得・热阿合莫汉（个体 13119991763） 俄孜木汉・木克尼（个体 19199527176）
+PPD:
+BMI: 175, 60
+
+name: 伊米然・库尔班江
+phone: 18699949145
+QQ:
+WeChat ID:
+ID Card: 654002200810290278
+age:16
+State: 伊宁市
+Home Add: 新疆伊犁康宁佳苑一期 13 - 2 - 402
+Gender: 男
+Ethnic Group: 维吾尔族
+Guardian: 库尔班江（个体 18299237864） 古丽娜儿・吐尔逊（个体 18449200805）
+PPD:
+BMI: 170, 50
+
+name: 朱安婧
+phone: 19146636268
+QQ:
+WeChat ID: An_11260819
+ID Card: 654025200908191029
+age:15
+State:新源县
+Home Add: 新源县七大队良繁场路口则新北路 143 号
+Gender: 女
+Ethnic Group: 汉族
+Guardian: 朱瑜（个体 18999580739） 明琼花（无 15894137718）
+PPD:
+BMI: 156, 49
+
+name: 祖热姆・如则
+phone: 18099418283
+QQ:
+WeChat ID: Vvv-HelloKitty
+ID Card: 654025200808203846
+age:16
+State: 新源县
+Home Add: 新疆新源县塔勒德镇发展街六巷 001 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 努尔古丽・阿布都克里木（18099427993） 如则・麦麦提敏（18099813462）
+PPD:
+BMI: 169, 48
+
+name: 刘小龙
+phone: 17330808547
+QQ: 3829948495
+WeChat ID: xl240207lx
+ID Card: 621125200808225030
+age:16
+State:博乐市
+Home Add: 新疆博尔塔拉蒙古自治州博乐市八十六团
+Gender: 男
+Ethnic Group: 汉族
+Guardian: 刘爱平（个体 13779016707）
+PPD:
+BMI: 181, 90
+
+name: 阿合卓力・胡安别克
+phone: 18599791653
+QQ:
+WeChat ID:
+ID Card: 654025200811302634
+age:16
+State: 新源县
+Home Add: 新源县那拉提镇塔亚苏村景区街 015 号
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 胡安别克・别尔得哈斯木（新源县 15292775925） 巴合提古丽・扎特（18299239550）
+PPD:
+BMI: 170, 50
+
+name: 艾孜海尔・尼加提
+phone: 18299281027
+QQ:
+WeChat ID: ashleaceciladz95
+ID Card: 654002200805285319
+age:16
+State: 伊宁市
+Home Add: 新疆伊犁伊宁市潘津镇萨依路 42 巷 2 号
+Gender: 男
+Ethnic Group: 维吾尔族
+Guardian: 布阿依夏姆（个体 15684841773） 尼加提（个体 13779519365）
+PPD:
+BMI: 171, 63
+
+name: 塔吾斯亚・阿布都沙拉木
+phone: 13031365240，17699375721
+QQ:
+WeChat ID: twsy0417
+ID Card: 654028200804170767
+age:16
+State: 尼勒克县
+Home Add: 尼勒克县乌赞乡阔纳巴扎路 71 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 热孜完古（个体 13031365243）
+PPD:
+BMI: 168, 47
+
+name: 恩珠・卡尔哈力
+phone: 18034844251
+QQ:
+WeChat ID: Kittyicon
+ID Card: 654025200903222324
+age:15
+State: 新源县
+Home Add: 新疆新源县菁华小区 3 号楼 3 单元 501
+Gender: 女
+Ethnic Group: 哈萨克族
+Guardian: 卡尔哈力（无 18196996044） 沙拉古丽（无 18196969644）
+PPD:
+BMI: 166, 47
+
+name: 热依那提・托里肯
+phone: 18196949455
+QQ:
+WeChat ID:
+ID Card: 654025200808132611
+age:16
+State: 新源县
+Home Add: 新疆新源县那拉提镇四大队 06 号 012 街
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian: 托里肯・阿提木汗（18194948255） 古尔比娅・沙马尔汗（15569280309）
+PPD:
+BMI: 170, 50
+
+name: 迪马热・米达尔汗
+phone: 19009016477
+QQ: 3884340052
+WeChat ID: dimare2894
+ID Card: 654201200809044322
+age:16
+State: 塔城市
+Home Add: 新疆塔城市杜别克长青路财政局住宅楼 3 号楼一单元 502 室
+Gender: 女
+Ethnic Group: 哈萨克族
+Guardian: 米达儿汗・塔力哈提（无 19109016477） 努尔黑扎・乌斯曼（个体 13070308393）
+PPD:
+BMI: 170, 50
+
+name: 热米拉・西尔买买提
+phone: 15559293616
+QQ: 3869029681
+WeChat ID: wxid_mf9a4xqnf0qz22
+ID Card: 65400220080902284X
+age:16
+State: 伊宁市
+Home Add: 新疆伊宁市巴彦岱镇巴彦岱村 19 巷 3 号
+Gender: 女
+Ethnic Group: 维吾尔族
+Guardian: 阿丽孜古丽・吾许尔（无 13565252439）
+PPD:
+BMI: 158, 48
+
+name: 艾尼哈尔・艾孜孜
+phone:
+QQ:
+WeChat ID:
+ID Card: 654002200709272614
+age:17
+State:
+Home Add:
+Gender: 男
+Ethnic Group: 维吾尔族
+Guardian:
+PPD:
+BMI:
+
+name: 阿尔开・托乎达吾别克
+phone:
+QQ:
+WeChat ID:
+ID Card: 65402420080228145X
+age:17
+State: 巩留县
+Home Add:
+Gender: 男
+Ethnic Group: 哈萨克族
+Guardian:
 PPD:
 BMI:
