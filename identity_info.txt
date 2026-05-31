@@ -614,20 +614,6 @@ Guardian: 胡安别克・别尔得哈斯木（新源县 15292775925） 巴合提
 PPD:
 BMI: 170, 50
 
-name: 艾孜海尔・尼加提
-phone: 18299281027
-QQ:
-WeChat ID: ashleaceciladz95
-ID Card: 654002200805285319
-age:16
-State: 伊宁市
-Home Add: 新疆伊犁伊宁市潘津镇萨依路 42 巷 2 号
-Gender: 男
-Ethnic Group: 维吾尔族
-Guardian: 布阿依夏姆（个体 15684841773） 尼加提（个体 13779519365）
-PPD:
-BMI: 171, 63
-
 name: 塔吾斯亚・阿布都沙拉木
 phone: 13031365240，17699375721
 QQ:
